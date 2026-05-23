@@ -133,3 +133,20 @@ Layihənin tam interaktiv dashboard görüntüləri aşağıdakı kimidir:
 
 * **Insight:** *Promotion Stagnation* qrafikində xüsusilə 11 və 15-ci xidmət illərində olan bəzi işçilərin 15 ildən çoxdur eyni vəzifədə qaldığı (qırmızı və narıncı zonalar) görünür. Bu durğunluq (Stagnation) həm motivasiyanı öldürür, həm də altdan gələn gənc kadrların yüksəlməsinə mane olur.
 * **Action Plan:** Uzun müddət eyni vəzifədə qalan işçilər üçün layihə əsaslı liderlik və ya yeni açılan regional ofislərdə idarəetmə rolları təklif edilərək karyera yolları yenidən aktivləşdirilməlidir.
+
+---
+
+Huseyn Mirzaliyev
+
+Data Analyst | Data Visualization & Analytics 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Baku, Azerbaijan
+
+📱 +994 55 820 80 50
+
+📧 huseyinmirzeliyev@gmail.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyn-mirzaliyev-78ba6b1a6/)
+[![github](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuseynMirzaliyev)
